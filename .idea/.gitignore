@@ -1,0 +1,26 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Build directories
+bin/
+build/
+target/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Java compiled files
+*.class
+
+# Existing ignored files
+/shelf/
+/workspace.xml
+/dataSources/
+/dataSources.local.xml
+/httpRequests/
